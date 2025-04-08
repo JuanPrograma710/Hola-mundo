@@ -7,3 +7,6 @@ Este tutorial se centra principalmente en Git y en el uso de GitHub como su repo
 Este repositorio se construye paso a paso en el tutorial.
 
 Ahora incluye pasos para GitHub
+
+
+Se crea una Brunch local desde Git para subirlo a GitHub
